@@ -1,4 +1,5 @@
-
+import pandas as pd
+import os
 # Funciones propias para reemplazar numpy
 
 def lf_rango(lp_inicio, lp_fin, lp_numero):
